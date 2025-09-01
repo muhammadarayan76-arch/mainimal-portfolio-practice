@@ -1,1 +1,1 @@
-# mainimal-portfolio-practice
+# miinimal-portfolio-practice
